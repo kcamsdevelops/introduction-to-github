@@ -7,7 +7,12 @@
 
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+## _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
 <!--
   <<< Author notes: Start of the course >>>

@@ -1,4 +1,4 @@
-# <!--
+<!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
@@ -7,7 +7,7 @@
 
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+## _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
   <<< Author notes: Start of the course >>>
